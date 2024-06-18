@@ -1,0 +1,3 @@
+[submodule "external/pyxbe"]
+	path = external/pyxbe
+	url = git@github.com:LoveMHz/pyxbe.git
