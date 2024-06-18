@@ -13,5 +13,8 @@ The proof of concept works but could use some cleaning up and optimization. The 
 
 Despite this, the initial work lays a solid foundation for anyone interested in picking up where it left off. There is potential for improvement and expansion if someone is willing to invest the time and effort.
 
+## Building
+Uses the [nxdk](https://github.com/XboxDev/nxdk) toolchain. Place the game assets in the correct folders, and a ready-to-use ISO will be built as part of the build process.
+
 ## License
 Feel free to use and modify the project as you see fit. Attribution is appreciated but not required. 
